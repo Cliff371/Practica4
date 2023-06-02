@@ -45,18 +45,7 @@ nav a:hover{
     transition-delay: 0.2s;
 }
 
-header a {
-    text-decoration:  none;
-    background-color: blue;
-    color: white;
-}
 
-header a:hover{
-    background-color: yellow;
-    color: red;
-    font-size: 20px;
-    transition-delay: 0.2s;
-}
 
 thead tr {
     background-color: black;
